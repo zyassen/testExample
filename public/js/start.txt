@@ -1,0 +1,10 @@
+
+/*-- javascript test---*/
+
+
+var do;
+
+function doIt()
+{
+return flase;
+}
